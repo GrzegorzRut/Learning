@@ -1,0 +1,5 @@
+flask
+flask-restful
+numpy
+tensorflow
+requests
